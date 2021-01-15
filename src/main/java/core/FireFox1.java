@@ -108,5 +108,6 @@ public class FireFox1 {
 		
 		System.out.println("Response time: " + (finish - start) / 1000.0 + " seconds");
 		System.out.println("----- End of Test: HW_40_QA1 - FireFox ---------");
+		
 	}//
 }//
